@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>Welcome to ABC technologies</h2>
+<h2>Welcome to ABC technologies to all</h2>
 <h3>This is retail portal</h3>
-<button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>  
+<button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>
 <script>  
 function addProduct(){  
 alert("You will be navigated to Add module");  
