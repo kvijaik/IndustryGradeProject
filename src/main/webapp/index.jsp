@@ -3,6 +3,7 @@
 <h2>Welcome to ABC technologies to all</h2>
 <h2>Please add product you looking </h2>
 <h3>This is retail portal</h3>
+<h3>Yes, This is retail portal</h3>
 <button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>
 <script>  
 function addProduct(){  
