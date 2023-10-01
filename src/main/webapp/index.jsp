@@ -3,11 +3,6 @@
 <h2>Welcome to ABC technologies to all</h2>
 <h2>Please add product you looking </h2>
 <h3>This is retail portal</h3>
-<form>
-        <label for="textbox">Enter text:</label>
-        <input type="text" id="name" name="Name">
-        <input type="submit" value="Submit">
-</form>
 <button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>
 <script>  
 function addProduct(){  
