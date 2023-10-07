@@ -4,6 +4,12 @@
 <h2>Please add product you looking </h2>
 <h3>This is retail portal</h3>
 <h3>Yes, This is retail portal</h3>
+ <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <br>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
 <button name="Add Product" value="Add Product" type="button" onclick="addProduct()">Add Product</button>
 <script>  
 function addProduct(){  
